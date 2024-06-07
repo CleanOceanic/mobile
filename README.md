@@ -1,38 +1,29 @@
-![Voll - Mobile](https://repository-images.githubusercontent.com/604322042/0b63dd66-5a29-4646-9c15-a9f490bb3742)
+# Clean Oceanic
 
-# Voll #
+Clean Oceanic é um aplicativo que permite o cadastro completo de usuários e a listagem de praias com problemas de limpeza, utilizando Firebase como backend.
 
-Uma aplicação para consultas médicas usando Native Base e TypeScript no React Native.
+## Funcionalidades
 
-## 🔨 Funcionalidades da aplicação ##
+- **Cadastro de Usuários:** CRUD completo (Create, Read, Update, Delete) para gerenciamento de usuários.
+- **Listagem de Praias:** Exibe uma lista de praias que apresentam problemas de limpeza, permitindo que os usuários reportem e visualizem problemas.
 
-A aplicação permite que os usuários agendem consultas com médicos, visualizem seus históricos médicos e pesquise por especialistas na região.
+## Tecnologias Utilizadas
 
-## ✔️ Tecnologias e ferramentas utilizadas ##
+- **React Native:** Framework para desenvolvimento do aplicativo móvel.
+- **Expo:** Plataforma para desenvolvimento, construção e implantação de aplicativos móveis React Native.
+- **Firebase:** Backend como serviço, utilizado para autenticação, banco de dados em tempo real e armazenamento de dados.
+- **Expo Router:** Gerenciamento de rotas dentro do aplicativo.
 
-As tecnologias e ferramentas utilizadas nesta aplicação incluem:
+## Pré-requisitos
 
-* Native Base: biblioteca de componentes visuais para React Native
-* TypeScript: linguagem de programação fortemente tipada
-* Expo: plataforma de desenvolvimento de aplicativos para React Native
-* React Native: framework para desenvolvimento de aplicativos para plataformas móveis
+- Node.js instalado
+- Expo CLI instalado (`npm install -g expo-cli`)
+- Conta no Firebase
 
-## 🎯 Desafio ##
+## Configuração
 
-Usar a biblioteca Native Base e TypeScript para criar uma aplicação para consultas médicas.
+1. Clone este repositório:
 
-## 📁 Acesso ao projeto ##
-
-O código fonte desta aplicação pode ser acessado em seu repositório no GitHub.
-
-## 🛠️ Instruções para execução ##
-
-1. Clone o repositório para sua máquina local
-2. Instale as dependências necessárias com o comando 
-`npm install`
-3. Execute a aplicação com o comando 
-`npx expo start`
-
-## 📚 Mais informações ##
-
-Para obter mais informações sobre este projeto, entre em contato com o desenvolvedor.# mobile
+   ```bash
+   git clone https://github.com/CleanOceanic/mobile.git
+   cd mobile
