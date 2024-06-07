@@ -1,6 +1,3 @@
-# Clean Oceanic
-
-Clean Oceanic é um aplicativo que permite o cadastro completo de usuários e a listagem de praias com problemas de limpeza, utilizando Firebase como backend.
 ![CleanOceanicGreenBlue](https://github.com/CleanOceanic/backend/assets/80494196/362a7749-fa63-4b65-9ccb-76cc6a4064c0)
 
 Os oceanos, cobrindo mais de 70% da Terra, são vitais para a vida e a regulação climática, mas estão ameaçados pela poluição, 
@@ -11,8 +8,7 @@ já que os resíduos entram na cadeia alimentar. No Brasil, a falta de conhecime
 Para enfrentar esse desafio, foi desenvolvida a Clean Oceanic, uma plataforma que conecta biólogos, empresas e voluntários com o objetivo de preservar e limpar os oceanos. 
 A plataforma facilita a colaboração através de chats, grupos, artigos e videochamadas. Além disso, oferece uma tecnologia para identificar tipos de resíduos a partir de fotos, 
 informando se são recicláveis, não recicláveis ou tóxicos, e orientando sobre o descarte correto. A Clean Oceanic também permite rastrear e quantificar os resíduos, 
-promovendo uma reciclagem mais transparente e eficaz. A plataforma visa criar uma comunidade comprometida em salvar os oceanos e assegurar um futuro sustentável.#
-
+promovendo uma reciclagem mais transparente e eficaz. A plataforma visa criar uma comunidade comprometida em salvar os oceanos e assegurar um futuro sustentável.
 ## Integrantes do Grupo
 
 - Kaique Santos de Andrade - RM99562
