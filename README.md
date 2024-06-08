@@ -17,6 +17,10 @@ promovendo uma reciclagem mais transparente e eficaz. A plataforma visa criar um
 - Thiago Martins Bezerra - RM98644
 - Vinicius Oliveira de Almeida - RM97967
 #
+
+### Video Pitch
+[Video Pitch](https://youtu.be/8eTHW4eEJ0Y)
+
 ## Funcionalidades
 
 - **Cadastro de Usuários:** CRUD completo (Create, Read, Update, Delete) para gerenciamento de usuários.
