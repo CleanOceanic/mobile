@@ -18,8 +18,8 @@ promovendo uma reciclagem mais transparente e eficaz. A plataforma visa criar um
 - Vinicius Oliveira de Almeida - RM97967
 #
 
-### Video Pitch
-[Video Pitch](https://youtu.be/8eTHW4eEJ0Y)
+### Pitch
+https://youtu.be/8eTHW4eEJ0Y
 
 ## Funcionalidades
 
